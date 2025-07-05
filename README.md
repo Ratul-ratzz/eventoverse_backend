@@ -53,4 +53,4 @@ This application is configured for deployment on Choreo. The database credential
 
 1. Create a secret named `db-password-secret` in your Choreo project
 2. Add a key named `password` with your database password
-3. Deploy the application through Choreo console 
+3. Deploy the application through Choreo console # eventoverse_final
