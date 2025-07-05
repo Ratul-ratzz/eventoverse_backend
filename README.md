@@ -55,3 +55,4 @@ This application is configured for deployment on Choreo. The database credential
 2. Add a key named `password` with your database password
 3. Deploy the application through Choreo console # eventoverse_final
 # eventoverse_final
+# eventoverse_back_final
